@@ -34,7 +34,7 @@ This project implements a sophisticated RAG pipeline for Alzheimer's disease res
 1. Clone the repository:
 ```bash
 git clone https://github.com/Vimp17/alzg-alzheimer-rag.git
-cd alzg-alzheimer-rag```
+```
 
 2. Install dependencies:
 
