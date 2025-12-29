@@ -1,0 +1,29 @@
+# Основные зависимости
+streamlit==1.28.0
+pandas==2.1.4
+numpy==1.24.4
+plotly==5.17.0
+
+# Для NLP
+nltk==3.8.1
+spacy==3.7.2
+python-dotenv==1.0.0
+
+# Для Hugging Face моделей
+torch==2.1.0
+transformers==4.35.0
+sentence-transformers==2.2.2
+accelerate==0.24.0
+
+# Для векторной базы
+chromadb==0.4.18
+hnswlib==0.7.0
+
+# Для сбора данных
+requests==2.31.0
+beautifulsoup4==4.12.2
+biopython==1.81
+
+# Дополнительные
+tqdm==4.66.1
+scikit-learn==1.3.2

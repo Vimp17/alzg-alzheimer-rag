@@ -1,0 +1,28 @@
+[
+  {
+    "pmid": "demo_001",
+    "title": "Tau protein aggregation in Alzheimer's disease",
+    "abstract": "This review discusses tau protein aggregation mechanisms and potential therapeutic targets including GSK3\u03b2 and CDK5 inhibitors. The study examines phosphorylation patterns and their role in neurofibrillary tangle formation.",
+    "authors": [
+      "Smith J",
+      "Johnson R"
+    ],
+    "year": "2023",
+    "journal": "Nature Reviews Neurology",
+    "doi": "10.1038/s41582-023-00789-7",
+    "url": "https://example.com/tau-review"
+  },
+  {
+    "pmid": "demo_002",
+    "title": "Amyloid-beta clearance pathways and therapeutic interventions",
+    "abstract": "Research on amyloid-beta clearance through the glymphatic system and potential drug targets including BACE1 inhibitors and gamma-secretase modulators. The study highlights novel clearance mechanisms.",
+    "authors": [
+      "Brown K",
+      "Davis M"
+    ],
+    "year": "2022",
+    "journal": "Science",
+    "doi": "10.1126/science.abc1234",
+    "url": "https://example.com/amyloid-review"
+  }
+]
